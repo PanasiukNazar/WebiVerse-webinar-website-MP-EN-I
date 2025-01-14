@@ -226,8 +226,8 @@ img {
 .bg-primary,
 .btn-primary,
 .btn-white:hover {
-    background: #0063b2ff !important;
-    border-color: #0063b2ff !important;
+    background: #008c76ff !important;
+    border-color: #008c76ff !important;
     color: #fff;
 }
 
@@ -280,11 +280,11 @@ img {
 }
 
 .bg-primary {
-    background: #0063b2ff !important;
+    background: #008c76ff !important;
 }
 
 a {
-    color: #0063b2ff;
+    color: #008c76ff;
     transition: 0.3s;
 }
 
@@ -306,7 +306,7 @@ a:focus {
     padding: 8px;
 }
 .header-socials li a {
-    color: #0063b2ff;
+    color: #008c76ff;
 }
 
 /*-----------------
@@ -326,7 +326,7 @@ a:focus {
 
 .icon-block {
     margin-right: 20px;
-    color: #0063b2ff;
+    color: #008c76ff;
     font-size: 40px;
     line-height: 20px;
     font-weight: 400;
@@ -350,14 +350,14 @@ a:focus {
  HOME-3
 ---------------------------*/
 .header-white {
-    background: #0063b2ff;
+    background: #008c76ff;
     box-shadow: 0 7px 22px rgba(0, 0, 0, 0.08);
     border-radius: 0px;
 }
 
 @media (max-width: 992px) {
     .trans-navigation {
-        background: #0063b2ff;
+        background: #008c76ff;
         box-shadow: 0 7px 22px rgba(0, 0, 0, 0.08);
         border-radius: 0px;
     }
@@ -642,7 +642,7 @@ PAGE BANNER
 }
 .has-dropdown .dropdown-menu a:focus,
 .has-dropdown .dropdown-menu a:hover {
-    background: #0063b2ff;
+    background: #008c76ff;
     color: #fff;
 }
 
@@ -679,7 +679,7 @@ PAGE BANNER
 
 .dropdown-submenu:hover > .dropdown-item,
 .dropdown-item:hover {
-    background: #0063b2ff;
+    background: #008c76ff;
     color: #fff !important;
 }
 
@@ -799,7 +799,7 @@ ul.dropdown-menu li {
     position: absolute;
     content: '';
     top: -27px;
-    background-color: #0063b2ff;
+    background-color: #008c76ff;
     opacity: 0.3;
     width: 80px;
     right: 70px;
@@ -822,7 +822,7 @@ ABOUT-2
     box-shadow: 0 7px 22px rgba(0, 0, 0, 0.08);
 }
 #about .img-block img {
-    border: 5px solid #0063b2ff;
+    border: 5px solid #008c76ff;
 }
 
 .pt-6 {
@@ -837,7 +837,7 @@ ABOUT-2
  SERVICE
 -----------------------*/
 h5.subtitle {
-    color: #0063b2ff;
+    color: #008c76ff;
     margin-bottom: 10px;
     font-weight: 300;
 }
@@ -867,7 +867,7 @@ h5.subtitle {
     font-size: 25px;
     width: 50px;
     height: 50px;
-    background: #0063b2ff;
+    background: #008c76ff;
     text-align: center;
     border-radius: 50%;
     padding-top: 5px;
@@ -931,7 +931,7 @@ h5.subtitle {
     border-color: transparent;
 }
 .web-service-block:hover i {
-    color: #0063b2ff;
+    color: #008c76ff;
 }
 .web-service-block:hover h3 {
     color: #111;
@@ -1010,7 +1010,7 @@ h5.subtitle {
     box-shadow: 0 7px 22px rgba(0, 0, 0, 0.08);
 }
 .project-content-block h4 {
-    color: #0063b2ff;
+    color: #008c76ff;
 }
 .project-content-block p {
     margin-top: 25px;
@@ -1046,7 +1046,7 @@ h5.subtitle {
     position: absolute;
     left: 30px;
     top: -23px;
-    background: #0063b2ff;
+    background: #008c76ff;
     color: #fff;
 }
 .overlay-content-block h4 {
@@ -1149,7 +1149,7 @@ h5.subtitle {
     font-family: 'Font Awesome 5 Free';
     left: 0px;
     top: 5px;
-    color: #0063b2ff;
+    color: #008c76ff;
     font-weight: 900;
 }
 
@@ -1224,7 +1224,7 @@ PRICING-2
     margin: 20px 0px;
 }
 .blog-content:hover a h3 {
-    color: #0063b2ff;
+    color: #008c76ff;
 }
 .blog-content h6 span {
     display: inline-block;
@@ -1315,12 +1315,12 @@ CONTACT PAGE
     font-size: 40px;
     margin-bottom: 20px;
     display: block;
-    color: #0063b2ff;
+    color: #008c76ff;
 }
 
 .form-control:focus,
 .form-control:hover {
-    border-color: #0063b2ff;
+    border-color: #008c76ff;
     box-shadow: none;
 }
 
@@ -1398,7 +1398,7 @@ CONTACT PAGE
 }
 
 .current-year {
-    color: #0063b2ff !important;
+    color: #008c76ff !important;
 }
 
 /*-----------------------------
@@ -1410,7 +1410,7 @@ CONTACT PAGE
     right: 30px;
     bottom: 50px;
     z-index: 999;
-    background: #0063b2ff;
+    background: #008c76ff;
     color: #fff !important;
     border-radius: 100%;
     opacity: 0;
@@ -1637,7 +1637,7 @@ CONTACT PAGE
     }
     .navbar-collapse.collapse.show {
         padding-bottom: 30px;
-        background: #0063b2ff;
+        background: #008c76ff;
     }
     #map {
         margin-top: 40px;
@@ -1668,7 +1668,7 @@ CONTACT PAGE
     }
     .navbar-collapse.collapse.show {
         padding-bottom: 30px;
-        background: #0063b2ff;
+        background: #008c76ff;
     }
     .top-info-block {
         text-align: center;
@@ -1890,7 +1890,7 @@ CONTACT PAGE
     }
     .navbar-collapse.collapse.show {
         padding-bottom: 30px;
-        background: #0063b2ff;
+        background: #008c76ff;
     }
     .web-service-block {
         margin-bottom: 30px;
@@ -1971,12 +1971,12 @@ CONTACT PAGE
     display: none;
 }
 .cookie-wrapper header i {
-    color: #0063b2ff;
+    color: #008c76ff;
     font-size: 32px;
     text-align: center;
 }
 .cookie-wrapper header h2 {
-    color: #0063b2ff;
+    color: #008c76ff;
     font-weight: 500;
     text-align: center;
 }
@@ -1984,7 +1984,7 @@ CONTACT PAGE
     text-align: center;
 }
 .data p a {
-    color: #0063b2ff;
+    color: #008c76ff;
     text-decoration: none;
     text-align: center !important;
 }
@@ -1996,10 +1996,10 @@ CONTACT PAGE
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #0063b2ff;
+    border: 2px solid #008c76ff;
     color: #fff;
     padding: 8px 0;
-    background: #0063b2ff;
+    background: #008c76ff;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -2008,18 +2008,18 @@ CONTACT PAGE
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #0063b2ff;
+    color: #008c76ff;
 }
 #declineBtn {
     background-color: #fff;
-    color: #0063b2ff;
+    color: #008c76ff;
     border-radius: 30px;
 }
 #declineBtn:hover {
-    background-color: #0063b2ff;
+    background-color: #008c76ff;
     color: #fff;
 }
 #result {
-    color: #0063b2ff;
+    color: #008c76ff;
     font-size: 14px;
 }
